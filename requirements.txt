@@ -1,0 +1,17 @@
+pomice
+pyfiglet==0.8.post1
+lyricsgenius==1.4.0
+humanize==0.5.1
+enhanced-dpy
+git+https://github.com/Rapptz/discord.py@master
+PyYAML==5.4.1
+rich==9.12.3
+pytz
+pycountry
+humanreadable
+async-timeout
+watchgod
+dblpy
+aiocache
+hmtai
+discord-components
